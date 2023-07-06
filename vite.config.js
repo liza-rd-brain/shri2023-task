@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: "docs",
   },
+  base: "shri2023-task",
 });
