@@ -1,7 +1,6 @@
 import { render } from "preact";
 import { useState, useCallback, useRef, useEffect } from "preact/hooks";
 import "./reset.css";
-import "./fonts.css";
 import "./styles.css";
 
 function Header() {
